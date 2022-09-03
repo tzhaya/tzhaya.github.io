@@ -19,7 +19,7 @@ Code4Lib JAPAN カンファレンス2022のチュートリアルセッション�
     {% for book in site.data.books %}
       <li>
         <!-- books.csv の title 列を表示、 url 列をリンク先に設定 -->
-        <p class="title"><a href="{{ book.url }}">{{ book.title }}</a></p>
+        <p class="title"><a href="{{ book.url }}">{{ book.title }}</a>{{ book.author }}</p>
       </li>
     {% endfor %}
   </ul>
@@ -37,7 +37,7 @@ Code4Lib JAPAN カンファレンス2022のチュートリアルセッション�
     {% for book in site.data.books %}
       <li>
         <!-- books.csv の title 列、 url 列をリンク先に設定 -->
-        <p><span class="title"><a href="{{ book.url }}">{{ book.title }}</a></span><span class="author"></span></p>
+        <p><span class="title"><a href="{{ book.url }}">{{ book.title }}</a></span><span class="author">{{ book.author }}</span></p>
       </li>
     {% endfor %}
   </ul>
