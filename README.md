@@ -2,13 +2,14 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tify@0.27.0/dist/tify.css">
 
+![002](https://user-images.githubusercontent.com/14845980/188251794-138aa3c8-b29b-4a74-a662-4d56ca8bb84f.JPG)
+
 # tzhaya Library TEST Page
 
 Code4Lib JAPAN カンファレンス2022のチュートリアルセッションで作成中のページですよ。
 
 ## [イベント](event.md)
 
-![002](https://user-images.githubusercontent.com/14845980/188251794-138aa3c8-b29b-4a74-a662-4d56ca8bb84f.JPG)
 
 ## 新着図書一覧
 
